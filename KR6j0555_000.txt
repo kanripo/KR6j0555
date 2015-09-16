@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 能淨一切眼疾病陀羅尼經
+#+DATE: 2015-08-30 20:34:40.588231
+#+PROPERTY: JUAN 0
