@@ -1,0 +1,3 @@
+001-0490a22	TKD 36-0962c	buddhist/K-koreana/36-tif/0900-0999/36_0962_C.TIF
+001-0490b17	TKD 36-0963a	buddhist/K-koreana/36-tif/0900-0999/36_0963_A.TIF
+001-0490b00	T 001-0490b	buddhist/T-taisho/T21/04/T21-0490.png
